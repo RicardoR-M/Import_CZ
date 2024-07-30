@@ -1,0 +1,6 @@
+/bases/
+/venv/
+/Plantillas/
+.env
+__pycache__/
+.idea/
